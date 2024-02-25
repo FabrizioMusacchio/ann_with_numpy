@@ -13,4 +13,7 @@ conda install -y mamba
 mamba install -y numpy matplotlib keras ipykernel
 ```
 
-If you are using an Apple Silicon chip, follow [these instructions](https://www.fabriziomusacchio.com/blog/2022-11-10-apple_silicon_and_tensorflow/) to install TensorFlow.
+If you want to run the code on an Apple Silicon chip, follow [these instructions](https://www.fabriziomusacchio.com/blog/2022-11-10-apple_silicon_and_tensorflow/) to install TensorFlow (required by Keras).
+
+
+
